@@ -1,0 +1,6 @@
+[22/04/2026 19:02:50] Sistema iniciado
+[22/04/2026 19:06:00] Talhao cadastrado: Pomar Norte (Fortuna, 500 pes)
+[22/04/2026 19:07:12] Talhao cadastrado: Pomar do Rio (Margarida, 2000 pes)
+[22/04/2026 19:08:36] Colheita registrada: talhao 1, 3200.0 kg, classe A
+[22/04/2026 19:09:49] Colheita registrada: talhao 1, 2800.0 kg, classe B
+[22/04/2026 19:12:50] Sistema encerrado
